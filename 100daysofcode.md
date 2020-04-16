@@ -7,6 +7,7 @@
 Added a filter option on the todo app that I'm currenly working with. I also learned new dom methods and properties
 
 #### Links to work:
+[a link](https://github.com/kmcsmn/todo-app)
 
 ### **Day 2: April 16, 2020**
 
